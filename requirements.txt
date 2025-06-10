@@ -1,0 +1,8 @@
+Flask
+groq
+pyjwt
+matplotlib
+numpy
+requests
+bs4
+pandas
